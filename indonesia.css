@@ -1,0 +1,13 @@
+
+#atas{
+background-color: hsl(0, 100%, 50%);
+width: 50%;
+height: 50%;
+border: solid black 1px;
+}
+#bawah{
+    background-color: hsl(0, 20%, 98%);
+width: 50%;
+height: 50%;
+border: solid black 1px;
+}
